@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+
+    <!--Inicializando Strings Tela 1-->
+    <string name="txt_subtitulo1">Aprenda sobre edições de imagens</string>
+    <string name="text_datatitulo">10/05/2030</string>
+    <string name="text_corpodescricao">Olá, seja muito bem vindo ao seu app de notícias. Nesse capitulo aprenderemos mais sobre
+    edição de imagens. Afinal, o que é uma edição de imagens? Edicação de imagens é quando você possui uma foto, imagem de alguma pessoa, local, lugar ou
+    objeto e precisa realizar mudanças na foto original como mudar de cor, alterar tamanho entre muitas outras coisas. Ao selecionar uma imagem para
+    editar você precisará de alguma ferramenta para editar esta imagem. Neste caso, existem diversas ferramentas para edição e uma delas é o Adobe Photoshop
+    que é utilizado por empresas e profissionais de edição, no entanto ainda existem editores mais simples para o uso não comercial onde qualquer pessoa
+    com muito pouco conhecimento de edição consegue realizar suas edições.</string>
+
+    <string name="btn_anterior">Anterior</string>
+    <string name="btn_proximo">Próximo</string>
+    <string name="todo">TODO</string>
+</resources>
